@@ -1,0 +1,64 @@
+*{
+    background-color: rgb(247, 224, 205);
+}
+
+.icerik{
+    color:rgb(173, 75, 10);
+    margin-left: 25px;
+    font-weight:bold;
+      
+}
+.head1{
+    color: saddlebrown;
+    font-size: 30px;
+}
+strong{
+    font-size: 15px;
+}
+.malzemelerbaslik{
+    color: white;
+    border-radius: 50px;
+    border: 1px solid;
+    background-color: rgba(99, 6, 6, 0.707);
+    width: 340px;
+    margin-left: 500px;
+    
+}
+.icerikbaslik{
+    margin-left: 500px;
+    
+}
+.iceriktam{
+    display: inline;
+    position:relative;
+    text-decoration: underline black;
+    
+}
+.malzemeler{
+    margin-left: 500px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.nasilyapilir{
+    margin-left: 500px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
+}
+.nasilyapilirbaslik{
+    color: white;
+    border-radius: 50px;
+    border: 1px solid;
+    background-color: rgba(99, 6, 6, 0.707);
+    width: 250px;
+    margin-left: 500px;
+    
+}
+.afiyetolsun{
+    margin-left: 1180px;
+    font-family:monospace;
+    font-size: 23px;
+    color:rgb(78, 58, 5);
+}
+
+
+
+
+
